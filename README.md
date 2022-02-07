@@ -30,7 +30,7 @@
 |week3|2/14(월)|구현|[뱀](https://half-khaan-537.notion.site/6a44cf418c8241efaf09590af3963e50)|[백준](https://www.acmicpc.net/problem/3190)|GoldⅤ|`삼성 A형`|  
 |week3|2/14(월)|구현|[기둥과 보 설치](https://half-khaan-537.notion.site/ae27b78a8532449c863241c3b0a259a0)|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/60061)|Level 3|`2020 카카오`|  
 |week3|2/14(월)|구현|[치킨 배달](https://half-khaan-537.notion.site/dcae8d11a3d24ee8b8b99dcb76fd47c0)|[백준](https://www.acmicpc.net/problem/15686)|GoldⅤ|`2018상 삼성`|  
-|week3|2/14(월)|구현|[외벽 점검](https://half-khaan-537.notion.site/95892baca5e940d598e2b9f227ab3a3b)|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/60062)|GoldⅤ|`2020 카카오`|  
+|week3|2/14(월)|구현|[외벽 점검](https://half-khaan-537.notion.site/95892baca5e940d598e2b9f227ab3a3b)|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/60062)|Level 3|`2020 카카오`|  
 
 <Br/>
 
