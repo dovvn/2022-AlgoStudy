@@ -27,14 +27,14 @@
 |week2|1/24(월)|구현|[문자열 재정렬](https://half-khaan-537.notion.site/33283d3903d74a14b67a9f2c8e1382e4)|이코테|||
 |week2|1/24(월)|구현|[문자열 압축](https://half-khaan-537.notion.site/fae50136afbd46be969c77779cbd0349)|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/60057)|Level 3|`2020 카카오`|
 |week2|1/24(월)|구현|[자물쇠와 열쇠](https://half-khaan-537.notion.site/adb58c54968a4399bf083844e346502c)|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/60059)|Level 3|`2020 카카오`|  
-|week3|1/31(월)|구현|[뱀](https://half-khaan-537.notion.site/6a44cf418c8241efaf09590af3963e50)|[백준](https://www.acmicpc.net/problem/3190)|GoldⅤ|`삼성 A형`|  
-|week3|1/31(월)|구현|[기둥과 보 설치](https://half-khaan-537.notion.site/ae27b78a8532449c863241c3b0a259a0)|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/60061)|Level 3|`2020 카카오`|  
-|week3|1/31(월)|구현|[치킨 배달](https://half-khaan-537.notion.site/dcae8d11a3d24ee8b8b99dcb76fd47c0)|[백준](https://www.acmicpc.net/problem/15686)|GoldⅤ|`2018상 삼성`|  
-|week3|1/31(월)|구현|[외벽 점검](https://half-khaan-537.notion.site/95892baca5e940d598e2b9f227ab3a3b)|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/60062)|Level 3|`2020 카카오`|  
-|week4|3/03(월)|DFS/BFS|[특정 거리의 도시찾기](https://half-khaan-537.notion.site/8a53b5782d984dddb892e09b76b9a005)|[백준](https://www.acmicpc.net/problem/18352)|Silver Ⅱ| |  
-|week4|3/03(월)|DFS/BFS|[연구소](https://half-khaan-537.notion.site/9fa9e76d0e824913a8dd457309aa5efa)|[백준](https://www.acmicpc.net/problem/14502)|Gold Ⅴ|`2017상 삼성`|  
-|week4|3/03(월)|DFS/BFS|[경쟁적 전염](https://half-khaan-537.notion.site/d652da946f9549afbf35bbff73254819)|[백준](https://www.acmicpc.net/problem/18405)|SilverⅠ| |  
-|week4|3/03(월)|DFS/BFS|[괄호 변환](https://half-khaan-537.notion.site/ad5bf094bf834da6ac139a687b0266a1)|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/60058)|Level 2| `2020 카카오`|    
+|week3|2/24(목)|구현|[뱀](https://half-khaan-537.notion.site/6a44cf418c8241efaf09590af3963e50)|[백준](https://www.acmicpc.net/problem/3190)|GoldⅤ|`삼성 A형`|  
+|week3|2/24(목)|구현|[기둥과 보 설치](https://half-khaan-537.notion.site/ae27b78a8532449c863241c3b0a259a0)|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/60061)|Level 3|`2020 카카오`|  
+|week3|2/24(목)|구현|[치킨 배달](https://half-khaan-537.notion.site/dcae8d11a3d24ee8b8b99dcb76fd47c0)|[백준](https://www.acmicpc.net/problem/15686)|GoldⅤ|`2018상 삼성`|  
+|week3|2/24(목)|구현|[외벽 점검](https://half-khaan-537.notion.site/95892baca5e940d598e2b9f227ab3a3b)|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/60062)|Level 3|`2020 카카오`|  
+|week4|3/03(목)|DFS/BFS|[특정 거리의 도시찾기](https://half-khaan-537.notion.site/8a53b5782d984dddb892e09b76b9a005)|[백준](https://www.acmicpc.net/problem/18352)|Silver Ⅱ| |  
+|week4|3/03(목)|DFS/BFS|[연구소](https://half-khaan-537.notion.site/9fa9e76d0e824913a8dd457309aa5efa)|[백준](https://www.acmicpc.net/problem/14502)|Gold Ⅴ|`2017상 삼성`|  
+|week4|3/03(목)|DFS/BFS|[경쟁적 전염](https://half-khaan-537.notion.site/d652da946f9549afbf35bbff73254819)|[백준](https://www.acmicpc.net/problem/18405)|SilverⅠ| |  
+|week4|3/03(목)|DFS/BFS|[괄호 변환](https://half-khaan-537.notion.site/ad5bf094bf834da6ac139a687b0266a1)|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/60058)|Level 2| `2020 카카오`|    
 
 <Br/>
 
