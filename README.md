@@ -35,6 +35,11 @@
 |week4|3/03(목)|DFS/BFS|[연구소](https://half-khaan-537.notion.site/9fa9e76d0e824913a8dd457309aa5efa)|[백준](https://www.acmicpc.net/problem/14502)|Gold Ⅴ|`2017상 삼성`|  
 |week4|3/03(목)|DFS/BFS|[경쟁적 전염](https://half-khaan-537.notion.site/d652da946f9549afbf35bbff73254819)|[백준](https://www.acmicpc.net/problem/18405)|SilverⅠ| |  
 |week4|3/03(목)|DFS/BFS|[괄호 변환](https://half-khaan-537.notion.site/ad5bf094bf834da6ac139a687b0266a1)|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/60058)|Level 2| `2020 카카오`|    
+|week5|3/10(목)|DFS/BFS|[연산자 끼워넣기](https://half-khaan-537.notion.site/36aed41080be42c68c588416ea3136a7)|[백준](https://www.acmicpc.net/problem/14888)|SilverⅠ| `2017하 삼성`|  
+|week5|3/10(목)|DFS/BFS|[감시 피하기](https://half-khaan-537.notion.site/69212aedbe79489eb9ac48818db6666e)|[백준](https://www.acmicpc.net/problem/18428)|SilverⅠ||  
+|week5|3/10(목)|DFS/BFS|[인구 이동](https://half-khaan-537.notion.site/019ef699a1e04f9f8735d072f7cad76e)|[백준](https://www.acmicpc.net/problem/16234)|GoldⅤ|`2018하 삼성`|  
+|week5|3/10(목)|DFS/BFS|[블록 이동하기](https://half-khaan-537.notion.site/20db7aa5f96045c0a8815aec393b07ec)|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/60063)|Level 3| `2020 카카오`|    
+
 
 <Br/>
 
