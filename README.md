@@ -41,7 +41,8 @@
 |week5|3/10(목)|DFS/BFS|[블록 이동하기](https://half-khaan-537.notion.site/20db7aa5f96045c0a8815aec393b07ec)|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/60063)|Level 3| `2020 카카오`|   
 |week6|3/21(월)|정렬|[국영수](https://half-khaan-537.notion.site/6f09dc47624142b6bbacbcb2bed213d1)|[백준](https://www.acmicpc.net/problem/10825)|SilverⅣ| |  
 |week6|3/21(월)|정렬|[안테나](https://half-khaan-537.notion.site/4e7cf3d26c5448f39763ac70a3effbca)|[백준](https://www.acmicpc.net/problem/18310)|SilverⅢ| |  
-|week6|3/21(월)|정렬|[카드 정렬하기](https://www.acmicpc.net/problem/1715)|[백준](https://www.acmicpc.net/problem/1715)|Gold Ⅳ||  
+|week6|3/21(월)|정렬|[실패율](https://half-khaan-537.notion.site/3b7ca52bf9fe47bd9e793aa82d5e56b1)|[프로그래머스](https://www.acmicpc.net/problem/1715)|Level 1|`2019 카카오`|  
+|week6|3/21(월)|정렬|[카드 정렬하기](https://half-khaan-537.notion.site/0d49c6e543964e85ba1a6ad55a7fcb36)|[백준](https://www.acmicpc.net/problem/1715)|Gold Ⅳ||  
 
 
 
