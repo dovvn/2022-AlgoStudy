@@ -3,7 +3,7 @@
 > 스터디원: 김민지, 안예진, 정다운, 홍유진    
 > 교재: [이것이 코딩테스트다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247882118)
 
-#### 📃 Notion - [MAHA 알고리즘 스터디](https://half-khaan-537.notion.site/MAHA-fbd2e8348cc84ba886ab134318105c9f)  
+## 📃 Notion - [MAHA 알고리즘 스터디](https://half-khaan-537.notion.site/MAHA-fbd2e8348cc84ba886ab134318105c9f)  
 
 <br/>  
 
